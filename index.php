@@ -2,7 +2,7 @@
 
 /*
  *---------------------------------------------------------------
- * APPLICATION ENVIRONMENT By Temmer
+ * APPLICATION ENVIRONMENT By Temmer 2014/05/06
  *---------------------------------------------------------------
  *
  * You can load different configurations depending on your
